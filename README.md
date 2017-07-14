@@ -1,8 +1,10 @@
 #HtmlToPdf 
+
 ####将HMTL元素转成pdf文件，并且保留原图片的像素真实比例
 
-. demo
-    请查看1.html
+- demo
+    ***请查看1.html***
+    
 ```javascript
     var htmltopdf = new htmlToPDF();
     //生成多个pdf文件
